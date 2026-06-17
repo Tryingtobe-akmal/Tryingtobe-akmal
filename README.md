@@ -1,7 +1,5 @@
 # Hi 👋, I'm Md Akmal
 
-🚀 Software Engineering & AI Enthusiast | Building Projects, Learning Every Day
-
 🎓 2nd Year B.Tech Data Science Student
 
 💻 Passionate about Full-Stack Development, Artificial Intelligence, and building real-world applications.
