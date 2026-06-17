@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Md Akmal
 
-<!--
-**Tryingtobe-akmal/Tryingtobe-akmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineering & AI Enthusiast | Building Projects, Learning Every Day
 
-Here are some ideas to get you started:
+🎓 2nd Year B.Tech Data Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Full-Stack Development, Artificial Intelligence, and building real-world applications.
+
+## 🎯 Career Goals
+
+* 🌐 Become a Full-Stack Developer
+* 🤖 Become an AI & Machine Learning Engineer
+* 🚀 Build scalable applications powered by software engineering and AI.
+
+## 🛠️ Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript
+
+**Backend:** Node.js, Express.js
+
+**Databases:** MySQL, MongoDB
+
+**Tools:** Git, GitHub, VS Code
+
+## 🔭 Interests
+
+* 🏆 Hackathons
+* 💼 Freelancing
+
+## 📫 Connect With Me
+
+* Email: [amdryzen333@gmail.com](mailto:amdryzen333@gmail.com)
+* GitHub: https://github.com/Tryingtobe-akmal
+
+> "Learning something new every day." 🚀
